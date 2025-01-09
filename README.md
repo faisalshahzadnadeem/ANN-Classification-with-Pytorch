@@ -1,4 +1,3 @@
-# ANN-Classification-with-Pytorch
 # CIFAR-10 Image Classification with PyTorch
 
 ## Overview
@@ -51,8 +50,4 @@ This repository contains the code for building, training, and evaluating an Arti
 - numpy
 - scikit-learn
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cifar10-classification.git
-   cd cifar10-classification
+
